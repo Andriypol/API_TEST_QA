@@ -3,7 +3,7 @@ import requests
 class APIClient():
 
     BASE_URL = "https://gorest.co.in"
-    auth_token = "Bearer 34968729db6fdd0944614cf5d2c4bc5c51282f4de10ed701d474f9a60e928d36"
+    auth_token = "Bearer 34968729db6fdd0944614cf5d2c4bc5c51474f9a60e928d36"
 
     def __init__(self):
         self.headers = {
